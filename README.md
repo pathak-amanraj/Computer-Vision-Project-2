@@ -50,5 +50,5 @@ The pretrained RCAN model was used.
 ### 1. **Clone the Repository**
 ```bash
 git clone https://github.com/pathak-amanraj/Computer-Vision_Project-2.git
-cd NTIRE_Image_Super_Resolution_Challenge_2025
+cd NTIRE2025_ImageSR_x4-main
 
